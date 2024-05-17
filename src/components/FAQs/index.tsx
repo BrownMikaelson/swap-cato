@@ -24,13 +24,13 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								Does MeowSwap take any fees?
+								Does MercurySwap take any fees?
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						MeowSwap takes 0 fee on swaps.
+						MercurySwap takes 0 fee on swaps.
 						<br />
 						<br /> You'll get the exact same price swapping through DefiLlama as what you'd get swapping through the chosen aggregator directly.
 					</AccordionPanel>
@@ -54,13 +54,13 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								Will I be eligible for aggregator airdrops if I swap through MeowSwap?
+								Will I be eligible for aggregator airdrops if I swap through MercurySwap?
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						We execute swaps directly against the router of each aggregator, so there's no difference between a swap executed directly from their UI and a swap executed from MeowSwap.
+						We execute swaps directly against the router of each aggregator, so there's no difference between a swap executed directly from their UI and a swap executed from MercurySwap.
 						<br />
 						<br />
 						Thus, if any of the aggregators we integrate does an airdrop in the future, all swaps made through them would be eligible for their airdrop.
