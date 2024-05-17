@@ -32,7 +32,7 @@ export default function FaqWrapper() {
 					<AccordionPanel pb={4}>
 						MercurySwap takes 0 fee on swaps.
 						<br />
-						<br /> You'll get the exact same price swapping through DefiLlama as what you'd get swapping through the chosen aggregator directly.
+						<br /> You'll get the exact same price swapping through MercurySwap as what you'd get swapping through the chosen aggregator directly.
 					</AccordionPanel>
 				</AccordionItem>
 				<AccordionItem>
@@ -47,7 +47,7 @@ export default function FaqWrapper() {
 					<AccordionPanel pb={4}>
 						Our aggregator uses the router contract of each aggregator, we don't use any contracts developed by us. Thus you inherit the same security you'd get by swapping directly from their UI instead of ours.
 						<br />
-						<br /> We do add our referral code to swaps tho, so, for aggregators with revenue sharing, they will send us part of the fee they earn. This is not an extra fee, you'd be charged the same fee anyway, but now a small part of it is shared with DefiLlama. We also integrate aggregators with no fee sharing the best price, and in those cases we don't make any money
+						<br /> We do add our referral code to swaps tho, so, for aggregators with revenue sharing, they will send us part of the fee they earn. This is not an extra fee, you'd be charged the same fee anyway, but now a small part of it is shared with MercurySwap. We also integrate aggregators with no fee sharing the best price, and in those cases we don't make any money
 					</AccordionPanel>
 				</AccordionItem>
 				<AccordionItem>
