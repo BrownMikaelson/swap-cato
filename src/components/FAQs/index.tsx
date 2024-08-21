@@ -24,15 +24,15 @@ export default function FaqWrapper() {
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								Does MercurySwap take any fees?
+								Does PessiSwap take any fees?
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						MercurySwap takes 0 fee on swaps.
+						PessiSwap takes 0 fee on swaps.
 						<br />
-						<br /> You'll get the exact same price swapping through MercurySwap as what you'd get swapping through the chosen aggregator directly.
+						<br /> You'll get the exact same price swapping through PessiSwap as what you'd get swapping through the chosen aggregator directly.
 					</AccordionPanel>
 				</AccordionItem>
 				<AccordionItem>
@@ -47,20 +47,20 @@ export default function FaqWrapper() {
 					<AccordionPanel pb={4}>
 						Our aggregator uses the router contract of each aggregator, we don't use any contracts developed by us. Thus you inherit the same security you'd get by swapping directly from their UI instead of ours.
 						<br />
-						<br /> We do add our referral code to swaps tho, so, for aggregators with revenue sharing, they will send us part of the fee they earn. This is not an extra fee, you'd be charged the same fee anyway, but now a small part of it is shared with MercurySwap. We also integrate aggregators with no fee sharing the best price, and in those cases we don't make any money
+						<br /> We do add our referral code to swaps tho, so, for aggregators with revenue sharing, they will send us part of the fee they earn. This is not an extra fee, you'd be charged the same fee anyway, but now a small part of it is shared with PessiSwap. We also integrate aggregators with no fee sharing the best price, and in those cases we don't make any money
 					</AccordionPanel>
 				</AccordionItem>
 				<AccordionItem>
 					<h2>
 						<AccordionButton>
 							<Box flex="1" textAlign="left">
-								Will I be eligible for aggregator airdrops if I swap through MercurySwap?
+								Will I be eligible for aggregator airdrops if I swap through PessiSwap?
 							</Box>
 							<AccordionIcon />
 						</AccordionButton>
 					</h2>
 					<AccordionPanel pb={4}>
-						We execute swaps directly against the router of each aggregator, so there's no difference between a swap executed directly from their UI and a swap executed from MercurySwap.
+						We execute swaps directly against the router of each aggregator, so there's no difference between a swap executed directly from their UI and a swap executed from PessiSwap.
 						<br />
 						<br />
 						Thus, if any of the aggregators we integrate does an airdrop in the future, all swaps made through them would be eligible for their airdrop.
